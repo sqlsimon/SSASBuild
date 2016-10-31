@@ -1,0 +1,7 @@
+C:\Work\git-src\SSASBuild\SsasHelper\obj\Debug\SsasHelper.Properties.Resources.resources
+C:\Work\git-src\SSASBuild\SsasHelper\obj\Debug\SsasHelper.csproj.GenerateResource.Cache
+C:\Work\git-src\SSASBuild\SsasHelper\bin\Debug\SsasHelper.dll
+C:\Work\git-src\SSASBuild\SsasHelper\bin\Debug\SsasHelper.pdb
+C:\Work\git-src\SSASBuild\SsasHelper\obj\Debug\SsasHelper.dll
+C:\Work\git-src\SSASBuild\SsasHelper\obj\Debug\SsasHelper.pdb
+C:\Work\git-src\SSASBuild\SsasHelper\bin\Debug\Microsoft.AnalysisServices.dll

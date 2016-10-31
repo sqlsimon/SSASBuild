@@ -1,0 +1,9 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTarget="BuildASDatabaseFile" >
+    <UsingTask TaskName="SsasBuilder.SsasBuildASDatabaseFileTask" 
+        AssemblyFile="C:\BuilderHelpers\CustomTasks\SSASBuild\SSASBuild.dll"/>
+    <Target Name="BuildASDatabaseFile">
+        <SsasBuildASDatabaseFileTask SsasProjectFile = "C:\Test\enterprise_Gold\Adventure Works DW 2008.dwproj"
+            SsasTargetFile = "C:\Test\SsasBuildTest\AdventureWorks.ASDtabase"
+            SsasServerEdition = "Enterprise" />
+    </Target>
+</Project>

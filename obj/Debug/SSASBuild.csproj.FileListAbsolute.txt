@@ -1,0 +1,8 @@
+C:\Work\git-src\SSASBuild\obj\Debug\SSASBuild.csprojResolveAssemblyReference.cache
+C:\Work\git-src\SSASBuild\bin\Debug\SSASBuild.dll
+C:\Work\git-src\SSASBuild\bin\Debug\SSASBuild.pdb
+C:\Work\git-src\SSASBuild\bin\Debug\SsasHelper.dll
+C:\Work\git-src\SSASBuild\bin\Debug\SsasHelper.pdb
+C:\Work\git-src\SSASBuild\obj\Debug\SSASBuild.dll
+C:\Work\git-src\SSASBuild\obj\Debug\SSASBuild.pdb
+C:\Work\git-src\SSASBuild\bin\Debug\Microsoft.AnalysisServices.dll
